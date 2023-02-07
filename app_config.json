@@ -1,0 +1,19 @@
+{
+    "applicationAccount": "29450351xxxx",
+    "applicationRegion": "us-east-1",
+    "networkConfig": {
+        "vpcId": "vpc-0363dcc3e0b36xxxx",
+        "publicSubnets": ["subnet-02dcf9492111cxxxx", "subnet-0e41d021669e0xxxx"],
+        "privateSubnets": ["subnet-0b8bcf53d08cfxxxx", "subnet-0d547517bc54exxxx"]
+    },
+    "secrets": {
+        "cloudHsmPin": "arn:aws:secretsmanager:us-east-1:29450351xxxx:secret:tls/pin-X91zRc",
+        "fakePem": "arn:aws:secretsmanager:us-east-1:29450351xxxx:secret:tls/fakepem-ryc7bl",
+        "serverCert": "arn:aws:secretsmanager:us-east-1:29450351xxxx:secret:tls/servercert-2d9R7a",
+        "clusterCert": "arn:aws:secretsmanager:us-east-1:29450351xxxx:secret:tls/clustercert-SodLTv"
+    },
+    "cloudhsm": {
+        "clusterId": "cluster-lbybpolxxxxx",
+        "clusterSecurityGroup": "sg-0478d6f82375xxxxx"
+    }
+}
