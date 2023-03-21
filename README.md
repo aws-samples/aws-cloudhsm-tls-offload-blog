@@ -4,7 +4,7 @@
 
 Sample code written using the [AWS Cloud Development Kit (CDK)](https://aws.amazon.com/cdk/) demonstrating how to deploy a managed AWS ECS web service backed by AWS CloudHSM with build and deployment automation.
 
-This repository is referenced by the AWS Security Blog: ["Automate the deployment of an NGINX web service using Amazon ECS with TLS offload in CloudHSM"](https://aws.amazon.com/blogs/security/automate-the-deployment-of-an-nginx-web-service-using-amazon-ecs-with-tls-offload-in-cloudhsm/).
+This repository is referenced by the AWS Security Blog: [Automate the deployment of an NGINX web service using Amazon ECS with TLS offload in CloudHSM](https://aws.amazon.com/blogs/security/automate-the-deployment-of-an-nginx-web-service-using-amazon-ecs-with-tls-offload-in-cloudhsm/).
 
 ## Support
 
